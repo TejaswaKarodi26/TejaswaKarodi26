@@ -31,14 +31,6 @@
 
 <hr style="width:60%; border:1px solid #eaeaea;">
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<hr style="width:60%; border:1px solid #eaeaea;">
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TejaswaKarodi26&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TejaswaKarodi26&theme=ocean_dark&hide_border=false)<br/>
